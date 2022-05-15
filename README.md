@@ -17,7 +17,7 @@ wrx@LAPTOP-KJTKJGUN:~$ ifconfig | grep inet
         inet 192.168.0.131  netmask 255.255.255.0  broadcast 192.168.0.255
         inet6 fe80::39dc:b681:c1bd:b13e  prefixlen 64  scopeid 0xfd<compat,link,site,host>
 ```
-In this case, visit [inet]:3000, in this case 192.168.0.131:3000/.
+In this case, visit 192.168.0.131:3000/.
 
 ## More on socket.io
 https://socket.io/docs/v4/emit-cheatsheet/
