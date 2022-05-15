@@ -2,8 +2,8 @@
 
 A lite uncensored chat platform developed based on vanilla JavaScript and socket.io. [More features](https://github.com/catherineruoxiwu/lol-chat/issues) are coming.
 
-<img src="./doc/chat.png" style="width:600px;">
 <img src="./doc/login.png" style="width:600px;">
+<img src="./doc/chat.png" style="width:600px;">
 
 
 ## Try lol chat locally with multiple users
