@@ -9,7 +9,7 @@ A lite uncensored chat platform developed based on vanilla JavaScript and socket
 ## Try lol chat locally with multiple users
 1. Clone the repository and run `npm install` and then `npm run start`.
 2. Visit [localhost:3000/](localhost:3000).
-3. Try the app with friends using the same Internet conenction using IP address. For example:
+3. Try the app with friends using the same Internet connection using IP address. For example:
 ```bash
 wrx@LAPTOP-KJTKJGUN:~$ ifconfig | grep inet
         inet 127.0.0.1  netmask 255.0.0.0
