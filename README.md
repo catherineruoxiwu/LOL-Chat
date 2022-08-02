@@ -1,4 +1,4 @@
-# lol-chat
+# lol-chat-socketio-demo
 
 A lite uncensored chat platform developed based on vanilla JavaScript and socket.io. [More features](https://github.com/catherineruoxiwu/lol-chat/issues) are coming.
 
